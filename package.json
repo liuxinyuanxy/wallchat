@@ -50,7 +50,7 @@
     "request":"^2.34",
     "rxjs":"^7.4.0",
     "redux":"^4.0.5",
-    "wechaty-puppet","^1.18.3",
+    "wechaty-puppet":"^1.18.3",
     "@postlight/mercury-parser": "^2.2.1",
     "@types/command-exists": "^1.2.0",
     "@types/download": "^8.0.2",
