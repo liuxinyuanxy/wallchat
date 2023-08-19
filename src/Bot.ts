@@ -34,7 +34,7 @@ import Logger from './lib/Logger';
 import MiscHelper from './lib/MiscHelper';
 import { SocksProxyAgent } from 'socks-proxy-agent';
 import * as crypto from 'crypto';
-import * as dayjs from 'dayjs';
+import dayjs from 'dayjs';
 import { findContact } from './bot/HandleFindX';
 import lang from './strings';
 import qr from 'qr-image';
